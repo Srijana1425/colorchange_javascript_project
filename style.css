@@ -1,0 +1,12 @@
+.container>button{
+    background-color: black;
+    color:white;
+    font-size: larger;
+    padding:10px 20px;
+}
+.container>button:hover{
+ background-color: gray;
+ color:white;
+ cursor: pointer;
+ border-color:gray;
+}
